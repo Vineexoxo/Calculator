@@ -1,0 +1,8 @@
+2024-09-26 00:03:15.363[main] INFO  org.example.Main - Start of Execution
+2024-09-26 00:03:37.240[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:03:37.241[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:03:41.983[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:03:41.983[main] INFO  org.example.Main - End of Execution of squareRoot
+2024-09-26 00:03:47.247[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:03:47.248[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:03:50.648[main] INFO  org.example.Main - End of Execution
