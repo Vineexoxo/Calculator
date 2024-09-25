@@ -6,3 +6,243 @@
 2024-09-26 00:03:47.247[main] INFO  org.example.Main - Start of Execution of factorial
 2024-09-26 00:03:47.248[main] INFO  org.example.Main - End of Execution of factorial
 2024-09-26 00:03:50.648[main] INFO  org.example.Main - End of Execution
+2024-09-26 00:42:04.206[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:42:04.207[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:42:04.208[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:42:04.208[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:42:04.208[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:42:04.208[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:42:04.208[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:42:04.208[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:42:04.208[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:42:04.209[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:42:04.209[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:42:04.209[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:42:04.209[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:42:04.209[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:42:04.209[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:42:04.209[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:42:04.213[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:42:04.213[main] INFO  org.example.Main - End of Execution of squareRoot
+2024-09-26 00:42:04.214[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:42:04.214[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:42:49.992[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:42:49.993[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:42:49.993[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:42:49.994[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:42:49.994[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:42:49.994[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:42:49.994[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:42:49.994[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:42:49.994[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:42:49.994[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:42:49.998[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:42:49.998[main] INFO  org.example.Main - End of Execution of squareRoot
+2024-09-26 00:42:49.998[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:42:49.999[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:43:05.388[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:43:05.389[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:43:05.389[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:43:05.389[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:43:05.389[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:43:05.389[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:43:05.390[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:43:05.390[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:43:05.390[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:43:05.390[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:43:22.829[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:43:22.831[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:43:22.831[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:43:22.831[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:44:50.098[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:44:50.099[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:44:50.099[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:44:50.100[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:44:50.100[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:44:50.100[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:44:50.100[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:44:50.100[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:44:50.100[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:44:50.100[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:44:50.101[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:44:50.101[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:44:50.101[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:44:50.101[main] INFO  org.example.Main - End of Execution of squareRoot
+2024-09-26 00:44:50.101[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:44:50.101[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:48:00.851[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:48:00.852[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:48:00.852[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:48:00.852[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:48:00.853[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:48:00.853[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:48:00.853[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:48:00.853[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:48:00.853[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:48:00.853[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:48:00.854[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:48:00.854[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:48:00.854[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:48:00.854[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:48:00.854[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:48:00.854[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:48:00.854[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:48:00.854[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:48:00.855[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:48:00.855[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:48:00.855[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:48:00.855[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:48:00.855[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:48:00.855[main] INFO  org.example.Main - End of Execution of squareRoot
+2024-09-26 00:48:00.856[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:48:00.856[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:48:00.856[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:48:00.856[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:48:00.856[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:48:00.857[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:50:04.441[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:50:04.442[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:50:04.442[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:50:04.442[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:50:04.443[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:50:04.443[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:50:04.443[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:50:04.443[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:50:04.443[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:50:04.443[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:50:04.444[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:50:04.444[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:50:04.444[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:50:04.444[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:50:04.444[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:50:04.444[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:50:04.444[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:50:04.444[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:50:04.444[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:50:04.445[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:50:04.445[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:50:04.445[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:50:04.445[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:50:04.445[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:50:04.445[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:50:04.445[main] INFO  org.example.Main - End of Execution of squareRoot
+2024-09-26 00:50:04.445[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:50:04.445[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:50:04.446[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:50:04.446[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:50:04.446[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:50:04.446[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:50:21.009[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:50:21.011[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:50:21.011[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:50:21.011[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:50:21.011[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:50:21.011[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:50:21.012[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:50:21.012[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:50:21.012[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:50:21.012[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:50:21.012[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:50:21.012[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:50:21.012[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:50:21.012[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:50:21.012[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:50:21.012[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:50:21.012[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:50:21.013[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:50:21.013[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:50:21.013[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:50:21.013[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:50:21.013[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:50:21.013[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:50:21.013[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:50:21.013[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:50:21.013[main] INFO  org.example.Main - End of Execution of squareRoot
+2024-09-26 00:50:21.014[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:50:21.014[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:50:21.014[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:50:21.014[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:50:21.014[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:50:21.014[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:50:21.018[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:50:21.018[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:52:24.915[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:52:24.917[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:52:24.917[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:52:24.917[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:52:24.918[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:52:24.918[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:52:24.918[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:52:24.918[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:52:24.918[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:52:24.918[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:52:24.919[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:52:24.919[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:52:24.919[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:52:24.919[main] INFO  org.example.Main - End of Execution of squareRoot
+2024-09-26 00:52:24.919[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:52:24.919[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:52:24.919[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:52:24.920[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:52:24.924[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:52:24.924[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:52:35.804[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:52:35.805[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:52:35.805[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:52:35.806[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:52:35.806[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:52:35.806[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:52:35.806[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:52:35.806[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:52:35.806[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:52:35.806[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:52:35.807[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:52:35.807[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:52:35.807[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:52:35.807[main] INFO  org.example.Main - End of Execution of squareRoot
+2024-09-26 00:52:35.807[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:52:35.807[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:52:35.808[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:52:35.808[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:52:51.088[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:52:51.090[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:52:51.090[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:52:51.090[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:52:51.091[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:52:51.091[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:52:51.091[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:52:51.091[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:52:51.091[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:52:51.091[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:52:51.092[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:52:51.092[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:52:51.092[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:52:51.092[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:52:51.092[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:52:51.092[main] INFO  org.example.Main - End of Execution of squareRoot
+2024-09-26 00:52:51.093[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:52:51.093[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:52:51.093[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:52:51.093[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:53:18.012[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:53:18.013[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:53:18.014[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:53:18.014[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:53:18.014[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:53:18.014[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:53:18.015[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:53:18.015[main] WARN  org.example.Main - Invalid input
+2024-09-26 00:53:18.015[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:53:18.015[main] INFO  org.example.Main - End of Execution of factorial
+2024-09-26 00:53:18.015[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:53:18.015[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:53:18.015[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:53:18.016[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:53:18.016[main] INFO  org.example.Main - Start of Execution of squareRoot
+2024-09-26 00:53:18.016[main] INFO  org.example.Main - End of Execution of squareRoot
+2024-09-26 00:53:18.016[main] INFO  org.example.Main - Start of Execution of power
+2024-09-26 00:53:18.016[main] INFO  org.example.Main - End of Execution of power
+2024-09-26 00:53:18.016[main] INFO  org.example.Main - Start of Execution of naturalLogarithm
+2024-09-26 00:53:18.016[main] INFO  org.example.Main - End of Execution of naturalLogarithm
+2024-09-26 00:53:18.017[main] INFO  org.example.Main - Start of Execution of factorial
+2024-09-26 00:53:18.017[main] WARN  org.example.Main - Invalid input
