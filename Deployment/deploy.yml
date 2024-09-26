@@ -3,16 +3,35 @@
   hosts: all
   vars:
     ansible_python_interpreter: /usr/bin/python3
-  tasks:
-    - name: Pull Docker image
-      docker_image:
-        name: vineepinee/calculator:latest
-        source: pull
 
+  tasks:
+
+    # Ensure Docker service is running
     - name: Ensure Docker service is running
       service:
         name: docker
         state: started
 
+    # Pull the Docker image
+    - name: Pull Docker image
+      docker_image:
+        name: vineepinee/calculator:latest
+        source: pull
+
+    # Check if a container with the same name is already running
+    - name: Check if Calculator container is already running
+      shell: docker ps -a -q -f name=Calculator
+      register: existing_container_id
+      ignore_errors: yes
+
+    # Stop and remove existing container (if it exists)
+    - name: Stop and remove the existing Calculator container
+      shell: |
+        if [ -n "{{ existing_container_id.stdout }}" ]; then
+          docker stop Calculator && docker rm Calculator;
+        fi
+      when: existing_container_id.stdout != ""
+
+    # Run the new Docker container
     - name: Run Docker container
       shell: docker run -it -d --name Calculator vineepinee/calculator:latest
