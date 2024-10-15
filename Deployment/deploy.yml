@@ -35,5 +35,3 @@
     # Run the new Docker container
     - name: Run Docker container
       shell: docker run -it -d --name Calculator vineepinee/calculator:latest
-
-#checking the hook
