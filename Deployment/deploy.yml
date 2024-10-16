@@ -36,4 +36,4 @@
     - name: Run Docker container
       shell: docker run -it -d --name Calculator vineepinee/calculator:latest
 
-      
+
